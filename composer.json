@@ -1,0 +1,19 @@
+{
+    "name": "yii-app",
+    "description": "Web application Yii",
+    "keywords": ["yii"],
+    "type": "app",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Igor Mogilin",
+            "email": "igormogn@gmail.com",
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii": ">=1.1.14"
+
+    }
+}
